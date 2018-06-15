@@ -1,0 +1,14 @@
+﻿生成启动时间为 2018/6/13 16:08:45。
+     1>项目“C:\Users\RZP\Desktop\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IE:\Opencv2.4.12\opencv\build\include /IE:\Opencv2.4.12\opencv\build\include\opencv /IE:\Opencv2.4.12\opencv\build\include\opencv2 /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "15-1.cpp"
+         15-1.cpp
+     1>c:\users\rzp\desktop\consoleapplication2\consoleapplication2\15-1.cpp(46): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\RZP\Desktop\ConsoleApplication2\Debug\ConsoleApplication2.exe" /INCREMENTAL /NOLOGO opencv_ml2412d.lib opencv_calib3d2412d.lib opencv_contrib2412d.lib opencv_core2412d.lib opencv_features2d2412d.lib opencv_flann2412d.lib opencv_gpu2412d.lib opencv_highgui2412d.lib opencv_imgproc2412d.lib opencv_legacy2412d.lib opencv_objdetect2412d.lib opencv_ts2412d.lib opencv_video2412d.lib opencv_nonfree2412d.lib opencv_ocl2412d.lib opencv_photo2412d.lib opencv_stitching2412d.lib opencv_superres2412d.lib opencv_videostab2412d.lib IlmImfd.lib libjasperd.lib libjpegd.lib libpngd.lib libtiffd.lib zlibd.lib vfw32.lib comctl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\RZP\Desktop\ConsoleApplication2\Debug\ConsoleApplication2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\RZP\Desktop\ConsoleApplication2\Debug\ConsoleApplication2.lib" /MACHINE:X86 "Debug\15-1.obj"
+         ConsoleApplication2.vcxproj -> C:\Users\RZP\Desktop\ConsoleApplication2\Debug\ConsoleApplication2.exe
+     1>已完成生成项目“C:\Users\RZP\Desktop\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.60
